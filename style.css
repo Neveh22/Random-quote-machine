@@ -1,0 +1,49 @@
+.one {
+  color: #C49F22;
+}
+
+.two {
+  background-color: #C49F22;
+}
+ 
+.rounded {
+  border: auto;
+  height: auto;
+  width: 600px;
+  margin: auto;
+  background-color: white;
+  box-shadow: 7px 9px 20px 13px grey;
+}
+.blockquote {
+  padding: 50px 120px 50px 120px;
+  border: auto;
+  margin: auto;
+}
+.btnLeft {
+  font-size: 22px;
+  margin: 10px 215px 50px 10px;
+  width: 50px;
+  height: 50px;
+  padding: 10px 10px 40px 10px;
+  color: white;
+  cursor: pointer;
+  white-space: inherit;
+}
+
+button {
+  height: 50px;
+  margin: 10px 5px 50px 210px;
+  color: white;
+  cursor: pointer;
+}
+
+.flex-container {
+  padding: 100px;
+}
+
+.myFooter {
+  right: 10px;
+  color: white;
+  
+}
+
